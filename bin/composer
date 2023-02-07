@@ -87,3 +87,4 @@ ErrorHandler::register();
 // run the command application
 $application = new Application();
 $application->run();
+aaa
